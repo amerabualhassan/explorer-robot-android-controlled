@@ -28,6 +28,3 @@ This project demonstrates a **cost-effective Arduino-based explorer robot** cont
 | MIT App Inventor  | For Android app design and communication         |
 
 ---
-
-## 📁 Project Structure
-
